@@ -1,4 +1,4 @@
-# webpack-issue-12483-style-loader
+# webpack-12483-style-loader
 
 ```
 >yarn -v
